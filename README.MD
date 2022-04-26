@@ -1,5 +1,4 @@
-# HOMEWORK 4
-- Phone book
+# HOMEWORK 4 - PHONE BOOK
 
 ### TODO
 - Implement Error handling
